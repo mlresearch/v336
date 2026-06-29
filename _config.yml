@@ -1,0 +1,98 @@
+---
+booktitle: Proceedings of Thirty Ninth Conference on Learning Theory
+shortname: COLT
+sections:
+- name: Preface
+  title: Preface
+- name: Original Papers
+  title: Original Papers
+- name: Open Problems
+  title: Open Problems
+volume: '336'
+year: '2026'
+start: &1 2026-06-29
+end: 2026-07-03
+published: 2026-06-29
+conference_number: '39'
+layout: proceedings
+series: Proceedings of Machine Learning Research
+publisher: PMLR
+issn: 2640-3498
+id: COLT2026
+month: 0
+cycles: false
+bibtex_editor: Hanneke, Steve and Lattimore, Tor
+editor:
+- given: Steve
+  family: Hanneke
+- given: Tor
+  family: Lattimore
+title: Proceedings of Machine Learning Research
+description: |
+  Proceedings of Thirty Ninth Conference on Learning Theory
+    Held in San Diego, California on 29 June to 03 July 2026
+
+  Published as Volume 336 by the Proceedings of Machine Learning Research on 29 June 2026.
+
+  Volume Edited by:
+    Steve Hanneke
+    Tor Lattimore
+
+  Series Editors:
+    Neil D. Lawrence
+date_str: 29 Jun--03 Jul
+url: https://proceedings.mlr.press
+author:
+  name: PMLR
+baseurl: "/v336"
+twitter_username: MLResearchPress
+github_username: mlresearch
+markdown: kramdown
+exclude:
+- README.md
+- Gemfile
+- ".gitignore"
+plugins:
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-remote-theme
+remote_theme: mlresearch/jekyll-theme
+style: pmlr
+permalink: "/:title.html"
+ghub:
+  edit: true
+  repository: v336
+display:
+  copy_button:
+    bibtex: true
+    endnote: true
+    apa: true
+  comments: false
+volume_type: Volume
+volume_dir: v336
+email: ''
+conference:
+  name: The Thirty Ninth Annual Conference on Learning Theory
+  url: https://learningtheory.org/colt2026/
+  location: San Diego, California
+  dates:
+  - *1
+  - 2026-06-30
+  - 2026-07-01
+  - 2026-07-02
+  - 2026-07-03
+analytics:
+  google:
+    tracking_id: UA-92432422-1
+link_visibility:
+  openreview: true
+  pdf: true
+  supplementary: true
+  software: true
+  video: true
+  arxiv: true
+  doi: true
+  website: true
+orig_bibfile: colt2026_clean.bib
+# Site settings
+# Original source:  colt2026_clean.bib
