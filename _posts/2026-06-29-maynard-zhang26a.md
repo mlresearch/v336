@@ -1,5 +1,5 @@
 ---
-title: On The Complexity of Best-Arm Identification in Non-Stationary Linear Bandits
+title: On the Complexity of Best-Arm Identification in Non-Stationary Linear Bandits
 section: Original Papers
 abstract: We study the fixed-budget best-arm identification (BAI) problem in non-stationary
   linear bandits.  Concretely, given a fixed time budget $T\in \mathbb{N}$, finite
@@ -25,7 +25,7 @@ publisher: PMLR
 issn: 2640-3498
 id: maynard-zhang26a
 month: 0
-tex_title: On The Complexity of Best-Arm Identification in Non-Stationary Linear Bandits
+tex_title: On the Complexity of Best-Arm Identification in Non-Stationary Linear Bandits
 firstpage: 5021
 lastpage: 5052
 page: 5021-5052
