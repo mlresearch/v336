@@ -10,7 +10,7 @@ sections:
   title: Open Problems
 volume: '336'
 year: '2026'
-start: &1 2026-06-29
+start: 2026-06-29
 end: 2026-07-03
 published: 2026-06-29
 conference_number: '39'
@@ -76,7 +76,7 @@ conference:
   url: https://learningtheory.org/colt2026/
   location: San Diego, California
   dates:
-  - *1
+  - 2026-06-29
   - 2026-06-30
   - 2026-07-01
   - 2026-07-02
